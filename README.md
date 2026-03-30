@@ -57,6 +57,13 @@ Complete data workflow from raw dataset to actionable insights.
 👉 https://github.com/Sahil-XD-bit/End-To-End-analysis
 
 ---
+## 📜 Certifications
+- BCG Data Analytics Simulation (Forage) | LINK -  (https://www.linkedin.com/in/sahil-kumar-676a193b8/details/certifications/)
+- Quantium Data Analytics Simulation (Forage) | LINK - (https://www.linkedin.com/in/sahil-kumar-676a193b8/details/certifications/)
+- Deloitte Analytics Simulation (Forage) | LINK -   (https://www.linkedin.com/in/sahil-kumar-676a193b8/details/certifications/)
+- TATA Data Visualization Simulation (Forage) | LINK -   (https://www.linkedin.com/in/sahil-kumar-676a193b8/details/certifications/)
+- Excel Automation using ChatGPT (Simplilearn SkillUp) | LINK -   (https://www.linkedin.com/in/sahil-kumar-676a193b8/details/certifications/)
+---
 
 📊 What I Bring
 
